@@ -1,0 +1,29 @@
+[33mcommit f15284991ec1e05d6dddd3f833fcd69cd9886940[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Candela <Candela.abregu1@gmail.com>
+Date:   Thu Apr 18 11:53:24 2024 -0300
+
+    [Parte 2.1] Configuracion de la base de datos
+
+[33mcommit 48a2bd8872835249601c5855b225bd5b254cf4ee[m
+Author: Candela <Candela.abregu1@gmail.com>
+Date:   Thu Apr 18 11:37:37 2024 -0300
+
+    [Parte 1.3] Creacion de la primera vista
+
+[33mcommit 246bbda2e0b8d5ed7c32f03b4f9f58d8fdb92bfc[m
+Author: Candela <Candela.abregu1@gmail.com>
+Date:   Thu Apr 18 10:58:40 2024 -0300
+
+    [Parte 1.2] Creacion de la aplicacion polls
+
+[33mcommit 25c11d31ea9fd58f71e763f5d5fb403effe42cda[m
+Author: Candela <Candela.abregu1@gmail.com>
+Date:   Thu Apr 18 10:32:14 2024 -0300
+
+    [Parte 1.1] Creacion del proyecto
+
+[33mcommit 1ae49827bc8615289dd6242229b255cd065cbd14[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Candela Abregu <candela.abregu1@gmail.com>
+Date:   Wed Apr 17 14:33:19 2024 -0300
+
+    first commit
